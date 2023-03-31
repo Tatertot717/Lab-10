@@ -1,0 +1,4 @@
+Have you ever written a program, saved a version, then later saved a different version and wish
+you could tell what changed? Well the correct answer to this problem is to use a source control
+system such as git, but for this lab, I am going to write a simple tool that shows what is
+different between two files.
